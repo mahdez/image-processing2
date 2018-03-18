@@ -1,1 +1,2 @@
 c:\users\mahde\documents\visual studio 2015\Projects\image-processing\image-processing\bin\Debug\image-processing.exe.config
+C:\Users\mahde\Documents\visual studio 2015\Projects\image-processing2\image-processing\bin\Debug\image-processing.exe.config
