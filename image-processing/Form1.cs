@@ -13,7 +13,6 @@ namespace image_processing
     public partial class Form1 : Form
     {
         int[,] imageInput;
-        int d = 0;
         private Bitmap f_image = null;
         public Bitmap image;
         public Form1()
